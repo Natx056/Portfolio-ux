@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Philosofer-bold";
+  src: url(/font/Philosopher-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Redhat";
+  src: url(/font/RedHatDisplay-Regular.ttf);
+}
+
+
+h1,
+h2,
+h3 {
+  font-family: "Philosofer-bold";
+}
+h1 {
+  color: #dc006e;
+}
+p,
+a,
+li {
+  font-family: "Redhat";
+  color: #1e1e1e;
+}
+
+.namepic h1{
+font-size: 96px;
+}
